@@ -1,5 +1,4 @@
-# MacOS
-Files relating to my M1 Macbook Air
+# Reset-Maccy
 
 # How to use this excutable bash script I created called resetMaccy.sh
 
